@@ -1,5 +1,5 @@
 build:
-  version: "accounts-1.0.0"
+  version: "accounts-1"
 
 accounts:
   contactInfo:
